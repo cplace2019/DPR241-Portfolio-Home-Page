@@ -164,7 +164,7 @@ body {
 	background-color: #F98761;
 	width: 100%;
 	height: 120px;    
-	background-image: url(images/header-large.jpg);
+	background-image: url(zheader-large.jpg);
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: 100% 100%;
@@ -202,7 +202,7 @@ body {
 	background-color: #B3C7E6;
 	width: 100%;
 	height: 120px;    
-	background-image: url(images/header-medium.jpg);
+	background-image: url(zheader-medium.jpg);
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: 100% 100%;
@@ -239,7 +239,7 @@ body {
 	background-color: #FFD27F;
 		width: 100%;
 	height: 120px;    
-	background-image: url(images/header-small.jpg);
+	background-image: url(zheader-small.jpg);
 	background-repeat: no-repeat;
 	background-position: left;
 	background-size: 100% 100%;
